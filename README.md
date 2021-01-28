@@ -1,5 +1,5 @@
 # ProjectFinance-2
-Readme for project finance 2
+
 L'inclusion financière reste l'un des principaux obstacles au développement économique et humain
 Afrique. Par exemple, au Kenya, au Rwanda, en Tanzanie et en Ouganda, seulement 9,1 millions d'adultes (ou
 13,9% de la population adulte) ont accès ou utilisent un compte bancaire commercial.
