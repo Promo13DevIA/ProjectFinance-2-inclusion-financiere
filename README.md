@@ -1,5 +1,12 @@
 # ProjectFinance-2
 
+Pour utiliser correctement ce projet sur Google Colab, merci d'executer au préalable le notebook de visualisation pour obtenir le csv "train_data" utilisé dans le notebook de modelling.
+ - Run " Project_finance2 - Data_Visualisation.ipynb "
+ - Download " train_data.csv "
+ - Open " Project_finance2 - Modelisation.ipynb "
+ - Upload " train_data.csv "
+ - Run " Project_finance2 - Modelisation.ipynb "
+
 L'inclusion financière reste l'un des principaux obstacles au développement économique et humain
 Afrique. Par exemple, au Kenya, au Rwanda, en Tanzanie et en Ouganda, seulement 9,1 millions d'adultes (ou
 13,9% de la population adulte) ont accès ou utilisent un compte bancaire commercial.
